@@ -24,6 +24,7 @@
 [<img align="left" alt="Facebook" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/socials/facebook.svg" />][facebook]
 [<img align="left" alt="Instagram" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/socials/instagram.svg" />][instagram]
 [<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/socials/linkedin.svg" />][linkedin]
+[<img align="left" alt="VK" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/socials/vk.svg" />][vk]
 [<img align="left" alt="YouTube" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/socials/youtube.svg" />][youtube]
 
 <br/>
@@ -69,6 +70,7 @@
 [facebook]: https://facebook.com/PS1TD
 [instagram]: https://instagram.com/p1k/
 [linkedin]: https://linkedin.com
+[vk]: https://vk.com/
 [youtube]: https://youtube.com
 
 <!-- Tools -->
