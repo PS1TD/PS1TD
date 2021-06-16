@@ -1,3 +1,1 @@
-## TEST
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PS1TD)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PS1TD)
