@@ -64,6 +64,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PS1TD&theme=algolia&langs_count=10&custom_title=My%20Most%20Used%20Languages)
 
+---
+
+<!--START_SECTION:activity-->
+
 <!-- Socials -->
 
 [website]: https://alexa.nder.pro
