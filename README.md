@@ -1,4 +1,4 @@
-# Hi there👋 I'm Alex - aka [PS1TD][website]
+# Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Alex - aka [PS1TD][website]
 
 ---
 
@@ -32,26 +32,29 @@
 
 ### Languages, Libraries, and Tools
 
-[<img align="left" style="margin-bottom: 10px;" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/vscode.svg" />][vscode]
-[<img align="left" style="margin-bottom: 10px;" alt="HTML" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/html.svg" />][html]
-[<img align="left" style="margin-bottom: 10px;" alt="CSS" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/css.svg" />][css]
-[<img align="left" style="margin-bottom: 10px;" alt="Javascript" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/javascript.svg" />][javascript]
-[<img align="left" style="margin-bottom: 10px;" alt="Typescript" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/typescript.svg" />][typescript]
-[<img align="left" style="margin-bottom: 10px;" alt="Node.js" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/nodejs.svg" />][nodejs]
-[<img align="left" style="margin-bottom: 10px;" alt="React" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/react.svg" />][react]
-[<img align="left" style="margin-bottom: 10px;" alt="NextJS" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/nextjs.svg" />][nextjs]
-[<img align="left" style="margin-bottom: 10px;" alt="GraphQL" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/graphql.svg" />][graphql]
-[<img align="left" style="margin-bottom: 10px;" alt="Apollo" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/apollo.svg" />][apollo]
-[<img align="left" style="margin-bottom: 10px;" alt="Prisma" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/prisma.svg" />][prisma]
-[<img align="left" style="margin-bottom: 10px;" alt="MySQL" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/mysql.svg" />][mysql]
-[<img align="left" style="margin-bottom: 10px;" alt="MariaDB" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/mariadb.svg" />][mariadb]
-[<img align="left" style="margin-bottom: 10px;" alt="Firebase" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/firebase.svg" />][firebase]
-[<img align="left" style="margin-bottom: 10px;" alt="Bootstrap" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/bootstrap.svg" />][bootstrap]
-[<img align="left" style="margin-bottom: 10px;" alt="Tailwind" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/tailwind.svg" />][tailwind]
-[<img align="left" style="margin-bottom: 10px;" alt="Python" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/python.svg" />][python]
-[<img align="left" style="margin-bottom: 10px;" alt="Java" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/java.svg" />][java]
-[<img align="left" style="margin-bottom: 10px;" alt="Dart" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/dart.svg" />][dart]
-[<img align="left" style="margin-bottom: 10px;" alt="Flutter" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/flutter.svg" />][flutter]
+[<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/vscode.svg" />][vscode]
+[<img align="left" alt="Git" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/git.svg" />][git]
+[<img align="left" alt="HTML" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/html.svg" />][html]
+[<img align="left" alt="CSS" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/css.svg" />][css]
+[<img align="left" alt="Sass" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/sass.svg" />][sass]
+[<img align="left" alt="Javascript" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/javascript.svg" />][javascript]
+[<img align="left" alt="Typescript" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/typescript.svg" />][typescript]
+[<img align="left" alt="Node.js" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/nodejs.svg" />][nodejs]
+[<img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/react.svg" />][react]
+[<img align="left" alt="Redux" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/redux.svg" />][redux]
+[<img align="left" alt="NextJS" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/nextjs.svg" />][nextjs]
+[<img align="left" alt="GraphQL" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/graphql.svg" />][graphql]
+[<img align="left" alt="Apollo" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/apollo.svg" />][apollo]
+[<img align="left" alt="Prisma" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/prisma.svg" />][prisma]
+[<img align="left" alt="MySQL" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/mysql.svg" />][mysql]
+[<img align="left" alt="MariaDB" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/mariadb.svg" />][mariadb]
+[<img align="left" alt="Firebase" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/firebase.svg" />][firebase]
+[<img align="left" alt="Bootstrap" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/bootstrap.svg" />][bootstrap]
+[<img align="left" alt="Tailwind" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/tailwind.svg" />][tailwind]
+[<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/python.svg" />][python]
+[<img align="left" alt="Java" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/java.svg" />][java]
+[<img align="left" alt="Dart" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/dart.svg" />][dart]
+[<img align="left" alt="Flutter" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/flutter.svg" />][flutter]
 
 <br/>
 <br/>
@@ -71,12 +74,15 @@
 <!-- Tools -->
 
 [vscode]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[sass]: https://sass-lang.com/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [typescript]: https://www.typescriptlang.org/
 [nodejs]: https://nodejs.org/en/
 [react]: https://reactjs.org/
+[redux]: https://redux.js.org/
 [nextjs]: https://nextjs.org/
 [graphql]: https://graphql.org/
 [apollo]: https://www.apollographql.com/
