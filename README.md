@@ -44,6 +44,7 @@
 [<img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/react.svg" />][react]
 [<img align="left" alt="Redux" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/redux.svg" />][redux]
 [<img align="left" alt="NextJS" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/nextjs.svg" />][nextjs]
+[<img align="left" alt="Gatsby" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/gatsby.svg" />][gatsby]
 [<img align="left" alt="GraphQL" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/graphql.svg" />][graphql]
 [<img align="left" alt="Apollo" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/apollo.svg" />][apollo]
 [<img align="left" alt="Prisma" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/prisma.svg" />][prisma]
@@ -86,6 +87,7 @@
 [react]: https://reactjs.org/
 [redux]: https://redux.js.org/
 [nextjs]: https://nextjs.org/
+[gatsby]: https://www.gatsbyjs.com/
 [graphql]: https://graphql.org/
 [apollo]: https://www.apollographql.com/
 [prisma]: https://www.prisma.io/
