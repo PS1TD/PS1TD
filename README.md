@@ -33,8 +33,32 @@
 ### Languages, Libraries, and Tools
 
 [<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/vscode.svg" />][vscode]
+[<img align="left" alt="HTML" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/html.svg" />][html]
+[<img align="left" alt="CSS" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/css.svg" />][css]
+[<img align="left" alt="Javascript" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/javascript.svg" />][javascript]
+[<img align="left" alt="Typescript" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/typescript.svg" />][typescript]
+[<img align="left" alt="Node.js" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/nodejs.svg" />][nodejs]
+[<img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/react.svg" />][react]
+[<img align="left" alt="NextJS" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/nextjs.svg" />][nextjs]
+[<img align="left" alt="GraphQL" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/graphql.svg" />][graphql]
+[<img align="left" alt="Apollo" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/apollo.svg" />][apollo]
+[<img align="left" alt="Prisma" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/prisma.svg" />][prisma]
+[<img align="left" alt="MySQL" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/mysql.svg" />][mysql]
+[<img align="left" alt="MariaDB" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/mariadb.svg" />][mariadb]
+[<img align="left" alt="Firebase" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/firebase.svg" />][firebase]
+[<img align="left" alt="Bootstrap" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/bootstrap.svg" />][bootstrap]
+[<img align="left" alt="Tailwind" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/tailwind.svg" />][tailwind]
+[<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/python.svg" />][python]
+[<img align="left" alt="Java" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/java.svg" />][java]
+[<img align="left" alt="Dart" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/dart.svg" />][dart]
+[<img align="left" alt="Flutter" width="24px" src="https://raw.githubusercontent.com/PS1TD/PS1TD/master/svg/tools/flutter.svg" />][flutter]
+
+<br/>
+<br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PS1TD&theme=algolia&langs_count=10&custom_title=My%20Most%20Used%20Languages)
+
+<!-- Socials -->
 
 [website]: https://alexa.nder.pro
 [twitter]: https://twitter.com/PS1TD
@@ -42,4 +66,26 @@
 [instagram]: https://instagram.com/p1k/
 [linkedin]: https://linkedin.com
 [youtube]: https://youtube.com
-[vscode]: https://youtube.com
+
+<!-- Tools -->
+
+[vscode]: https://code.visualstudio.com/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[typescript]: https://www.typescriptlang.org/
+[nodejs]: https://nodejs.org/en/
+[react]: https://reactjs.org/
+[nextjs]: https://nextjs.org/
+[graphql]: https://graphql.org/
+[apollo]: https://www.apollographql.com/
+[prisma]: https://www.prisma.io/
+[mysql]: https://www.mysql.com/
+[mariadb]: https://mariadb.org/
+[firebase]: https://firebase.google.com/
+[bootstrap]: https://getbootstrap.com/
+[tailwind]: https://tailwindcss.com/
+[python]: https://www.python.org/
+[java]: https://www.java.com/en/
+[dart]: https://dart.dev/
+[flutter]: https://flutter.dev/
