@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Computer Science majot student at NYU Tandon School of Engineering👨‍💻
+## I'm a Computer Science major graduate from NYU Tandon School of Engineering👨‍💻
 
 -   🌱 Currently learning everything fullstack related. 🤣
 -   👥 Looking to collaborate with other developers.
